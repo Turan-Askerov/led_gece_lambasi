@@ -24,6 +24,8 @@ Devre fiziksel olarak breadboard yerine doğrudan lehimlenerek tasarlandı. Şem
 ## Devre Fotoğrafı
 [images/IMG-20221107-WA0020.jpg](https://photos.app.goo.gl/JPqHNEDrbruQjj146)
 
+## Devre Videosu
+[images/IMG-20221107-WA0020.jpg](https://photos.app.goo.gl/NTfiJSmDS3ymisVc9)
 
 ## 🧠 Tasarım ve Uygulama
 
