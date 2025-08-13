@@ -22,10 +22,10 @@ Fotorezistörün direnci ışığa bağlı olarak değişir. Ortam karardığın
 Devre fiziksel olarak breadboard yerine doğrudan lehimlenerek tasarlandı. Şema henüz dijital ortamda çizilmedi. Aşağıda gerçek devre fotoğrafı yer almaktadır:
 
 ## Devre Fotoğrafı
-[images/IMG-20221107-WA0020.jpg](https://photos.app.goo.gl/JPqHNEDrbruQjj146)
+[İmages: ](https://photos.app.goo.gl/JPqHNEDrbruQjj146)
 
 ## Devre Videosu
-[images/IMG-20221107-WA0020.jpg](https://photos.app.goo.gl/NTfiJSmDS3ymisVc9)
+[Video: ](https://photos.app.goo.gl/NTfiJSmDS3ymisVc9)
 
 ## 🧠 Tasarım ve Uygulama
 
